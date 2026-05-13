@@ -1,2 +1,2 @@
 # bimm143
-This is my test repo
+This is my math repo
