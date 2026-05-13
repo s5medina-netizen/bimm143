@@ -1,0 +1,72 @@
+2026-05-04 19:04:01,128 Running on GPU
+2026-05-04 19:04:01,131 Found 5 citations for tools or databases
+2026-05-04 19:04:01,131 Query 1/1: novelProtein_7a997 (length 470)
+2026-05-04 19:04:01,682 Sleeping for 5s. Reason: PENDING
+2026-05-04 19:04:07,191 Sleeping for 10s. Reason: RUNNING
+2026-05-04 19:04:17,734 Sleeping for 10s. Reason: RUNNING
+2026-05-04 19:04:28,253 Sleeping for 9s. Reason: RUNNING
+2026-05-04 19:04:37,744 Sleeping for 6s. Reason: RUNNING
+2026-05-04 19:04:44,244 Sleeping for 6s. Reason: RUNNING
+2026-05-04 19:04:50,775 Sleeping for 10s. Reason: RUNNING
+2026-05-04 19:05:01,292 Sleeping for 5s. Reason: RUNNING
+2026-05-04 19:05:06,793 Sleeping for 8s. Reason: RUNNING
+2026-05-04 19:05:15,308 Sleeping for 9s. Reason: RUNNING
+2026-05-04 19:05:24,827 Sleeping for 7s. Reason: RUNNING
+2026-05-04 19:05:32,329 Sleeping for 10s. Reason: RUNNING
+2026-05-04 19:05:43,031 Sleeping for 9s. Reason: RUNNING
+2026-05-04 19:05:52,552 Sleeping for 9s. Reason: RUNNING
+2026-05-04 19:06:02,083 Sleeping for 8s. Reason: RUNNING
+2026-05-04 19:06:10,580 Sleeping for 9s. Reason: RUNNING
+2026-05-04 19:06:20,141 Sleeping for 9s. Reason: RUNNING
+2026-05-04 19:06:29,694 Sleeping for 10s. Reason: RUNNING
+2026-05-04 19:06:40,209 Sleeping for 6s. Reason: RUNNING
+2026-05-04 19:06:46,805 Sleeping for 10s. Reason: RUNNING
+2026-05-04 19:06:57,343 Sleeping for 5s. Reason: RUNNING
+2026-05-04 19:07:02,843 Sleeping for 6s. Reason: RUNNING
+2026-05-04 19:07:09,354 Sleeping for 10s. Reason: RUNNING
+2026-05-04 19:07:19,853 Sleeping for 7s. Reason: RUNNING
+2026-05-04 19:07:27,588 Sleeping for 8s. Reason: RUNNING
+2026-05-04 19:07:36,080 Sleeping for 7s. Reason: RUNNING
+2026-05-04 19:07:43,591 Sleeping for 6s. Reason: RUNNING
+2026-05-04 19:07:50,928 Sleeping for 7s. Reason: RUNNING
+2026-05-04 19:07:58,459 Sleeping for 8s. Reason: RUNNING
+2026-05-04 19:08:06,953 Sleeping for 6s. Reason: RUNNING
+2026-05-04 19:08:13,453 Sleeping for 5s. Reason: RUNNING
+2026-05-04 19:08:18,966 Sleeping for 9s. Reason: RUNNING
+2026-05-04 19:08:28,462 Sleeping for 5s. Reason: RUNNING
+2026-05-04 19:08:33,965 Sleeping for 9s. Reason: RUNNING
+2026-05-04 19:08:43,471 Sleeping for 9s. Reason: RUNNING
+2026-05-04 19:08:52,976 Sleeping for 7s. Reason: RUNNING
+2026-05-04 19:09:10,462 Setting max_seq=512, max_extra_seq=5120
+2026-05-04 19:11:23,440 alphafold2_ptm_model_1_seed_000 recycle=0 pLDDT=49.7 pTM=0.384
+2026-05-04 19:12:43,504 alphafold2_ptm_model_1_seed_000 recycle=1 pLDDT=51.2 pTM=0.403 tol=10.5
+2026-05-04 19:13:41,321 alphafold2_ptm_model_1_seed_000 recycle=2 pLDDT=50.5 pTM=0.414 tol=10.7
+2026-05-04 19:14:40,086 alphafold2_ptm_model_1_seed_000 recycle=3 pLDDT=50.2 pTM=0.414 tol=4.21
+2026-05-04 19:14:40,087 alphafold2_ptm_model_1_seed_000 took 297.3s (3 recycles)
+2026-05-04 19:15:38,585 alphafold2_ptm_model_2_seed_000 recycle=0 pLDDT=51 pTM=0.356
+2026-05-04 19:16:37,137 alphafold2_ptm_model_2_seed_000 recycle=1 pLDDT=53 pTM=0.381 tol=14.6
+2026-05-04 19:17:35,392 alphafold2_ptm_model_2_seed_000 recycle=2 pLDDT=52.9 pTM=0.387 tol=10.9
+2026-05-04 19:18:33,749 alphafold2_ptm_model_2_seed_000 recycle=3 pLDDT=53.1 pTM=0.391 tol=4.73
+2026-05-04 19:18:33,751 alphafold2_ptm_model_2_seed_000 took 233.3s (3 recycles)
+2026-05-04 19:19:32,370 alphafold2_ptm_model_3_seed_000 recycle=0 pLDDT=53.9 pTM=0.406
+2026-05-04 19:20:30,860 alphafold2_ptm_model_3_seed_000 recycle=1 pLDDT=55.5 pTM=0.434 tol=7.54
+2026-05-04 19:21:29,322 alphafold2_ptm_model_3_seed_000 recycle=2 pLDDT=55.3 pTM=0.436 tol=7.67
+2026-05-04 19:22:27,844 alphafold2_ptm_model_3_seed_000 recycle=3 pLDDT=55.4 pTM=0.439 tol=4.17
+2026-05-04 19:22:27,845 alphafold2_ptm_model_3_seed_000 took 233.8s (3 recycles)
+2026-05-04 19:23:26,473 alphafold2_ptm_model_4_seed_000 recycle=0 pLDDT=49.4 pTM=0.379
+2026-05-04 19:24:24,955 alphafold2_ptm_model_4_seed_000 recycle=1 pLDDT=49.9 pTM=0.392 tol=17.4
+2026-05-04 19:25:23,206 alphafold2_ptm_model_4_seed_000 recycle=2 pLDDT=48.9 pTM=0.396 tol=6.13
+2026-05-04 19:26:21,557 alphafold2_ptm_model_4_seed_000 recycle=3 pLDDT=50 pTM=0.408 tol=5.55
+2026-05-04 19:26:21,559 alphafold2_ptm_model_4_seed_000 took 233.4s (3 recycles)
+2026-05-04 19:27:19,961 alphafold2_ptm_model_5_seed_000 recycle=0 pLDDT=49.6 pTM=0.378
+2026-05-04 19:28:18,381 alphafold2_ptm_model_5_seed_000 recycle=1 pLDDT=51.2 pTM=0.409 tol=11.3
+2026-05-04 19:29:16,832 alphafold2_ptm_model_5_seed_000 recycle=2 pLDDT=50.9 pTM=0.411 tol=8.61
+2026-05-04 19:30:15,305 alphafold2_ptm_model_5_seed_000 recycle=3 pLDDT=51.1 pTM=0.413 tol=6.94
+2026-05-04 19:30:15,306 alphafold2_ptm_model_5_seed_000 took 233.5s (3 recycles)
+2026-05-04 19:30:15,550 reranking models by 'plddt' metric
+2026-05-04 19:30:15,550 rank_001_alphafold2_ptm_model_3_seed_000 pLDDT=55.4 pTM=0.439
+2026-05-04 19:30:15,551 rank_002_alphafold2_ptm_model_2_seed_000 pLDDT=53.1 pTM=0.391
+2026-05-04 19:30:15,551 rank_003_alphafold2_ptm_model_5_seed_000 pLDDT=51.1 pTM=0.413
+2026-05-04 19:30:15,551 rank_004_alphafold2_ptm_model_1_seed_000 pLDDT=50.2 pTM=0.414
+2026-05-04 19:30:15,551 rank_005_alphafold2_ptm_model_4_seed_000 pLDDT=50 pTM=0.408
+2026-05-04 19:30:17,438 Done
